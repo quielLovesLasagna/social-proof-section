@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/quielLovesLasagna/social-proof-section](https://github.com/quielLovesLasagna/social-proof-section)
+- Live Site URL: [https://quiel-social-proof-section.netlify.app/](https://quiel-social-proof-section.netlify.app/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [quielLovesLasagna]()
+- GitHub - [quielLovesLasagna](https://github.com/quielLovesLasagna)
 - Frontend Mentor - [@quielLovesLasagna](https://www.frontendmentor.io/profile/quielLovesLasagna)
